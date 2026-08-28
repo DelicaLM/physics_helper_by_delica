@@ -1,5 +1,5 @@
 [project]
-name = "new_python_package"
+name = "physics_helper_by_delica"
 dynamic = ["version"]
 authors = [
   { name="Delica Leboe-McGowan", email="stormindustries22@outlook.com" },
